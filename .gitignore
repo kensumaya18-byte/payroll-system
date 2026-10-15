@@ -1,0 +1,26 @@
+# Virtual environment
+myenv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.env
+
+# Generated outputs
+exports/
+payslips/
+*.xlsx
+*.pdf
+*.log
+
+# Sensitive data
+employees*.csv
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
