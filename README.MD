@@ -43,6 +43,8 @@ When you create `Employee(name, department, salary, overtime, deductions, volunt
 4. Computes overtime pay, then gross pay
 5. Computes taxable income, then withholding tax
 6. Computes net pay and total employer cost
+7. Add as a real time compution like i cannot be hard to compute for the head 
+8. Can be transform easly into raw data
 
 `to_dict()` turns the object into a dictionary with 20 fields, and that dictionary is what gets saved to the CSV and passed to every print function.
 
